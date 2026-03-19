@@ -73,11 +73,18 @@ Passionate software developer focused on building scalable, high-quality applica
 
 ---
 
-## Connect With Me
+## Contact
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hymurcia)
+| | |
+|:---:|:---:|
+| **Phone** | +57 314-316-9575 |
+| **WhatsApp** | [Send Message](https://wa.me/573143169575) |
+| **Email** | hyms2003@gmail.com |
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hernanmurcia)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://hymurcia.gith)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hymurcia)
 
 </div>
