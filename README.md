@@ -1,28 +1,30 @@
 <div align="center">
 
-# Hola, soy **Hernán Murcia**
+<img src="https://raw.githubusercontent.com/hymurcia/hymurcia/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-### Computación | Full Stack Developer | Red, DevOps & Cloud | Soporte TI
+# Hey there! I'm **Hernán Murcia**
 
-**Bogotá, CO**
+### Full Stack Developer | DevOps & Cloud | Networking | IT Support
 
-<a href="https://github.com/hymurcia">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E3440&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Redes+y+DevOps;Soporte+TI;Siempre+aprendiendo" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+applications;Solving+complex+problems;Always+learning+new+tech;Open+to+work)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=hymurcia&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
 ---
 
 </div>
 
-## Sobre Mí
+## About Me
 
-Soy ingeniero de Sistemas y Full Stack Developer con experiencia en desarrollo de software, redes, infraestructura, soporte técnico y operaciones digitales. Manejo tanto del stack de desarrollo (frontend–backend) como de redes LAN/WAN, radioenlaces, bases de datos SQL/NoSQL y entornos cloud.
+I'm a Systems Engineer and Full Stack Developer with hands-on experience in software development, networking, infrastructure, IT support, and digital operations. I work across the full stack (frontend & backend) as well as LAN/WAN networks, radio links, SQL/NoSQL databases, and cloud environments.
 
-Me caracterizo por la capacidad de resolver problemas, dar soporte eficiente, desarrollar soluciones funcionales y mantener sistemas estables y seguros. Combino habilidades técnicas con un enfoque analítico y adaptable, orientado a ofrecer resultados confiables y de calidad en entornos de TI.
+I'm known for my problem-solving skills, efficient support delivery, functional solution development, and maintaining stable and secure systems. I combine technical expertise with an analytical and adaptable approach, focused on delivering reliable, high-quality results in IT environments.
 
 ---
 
 ## Tech Stack
+
+<div align="center">
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -62,16 +64,30 @@ Me caracterizo por la capacidad de resolver problemas, dar soporte eficiente, de
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+</div>
+
 ---
 
 ## GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hymurcia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hymurcia&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=hymurcia&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hymurcia&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hymurcia&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hymurcia&theme=radical&hide_border=true&background=0d1117" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=hymurcia&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hymurcia&theme=radical&hide_border=true&bg_color=0d1117" />
 
 </div>
 
@@ -97,6 +113,6 @@ Me caracterizo por la capacidad de resolver problemas, dar soporte eficiente, de
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=hymurcia&color=0e75b6&style=flat-square)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 </div>
