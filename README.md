@@ -77,8 +77,6 @@ I'm known for my problem-solving skills, efficient support delivery, functional 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hymurcia&theme=radical&hide_border=true&background=0d1117" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=hymurcia&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-
 </div>
 
 ---
