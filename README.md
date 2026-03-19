@@ -1,20 +1,24 @@
 <div align="center">
 
-# Hi, I'm **Hymurcia**
+# Hola, soy **Hernán Murcia**
 
-### Full Stack Developer | Software Engineer
+### Computación | Full Stack Developer | Red, DevOps & Cloud | Soporte TI
+
+**Bogotá, CO**
 
 <a href="https://github.com/hymurcia">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E3440&center=true&vCenter=true&random=false&width=600&lines=Building+robust+applications;Full+Stack+Developer;Problem+Solver;Always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E3440&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Redes+y+DevOps;Soporte+TI;Siempre+aprendiendo" alt="Typing SVG" />
 </a>
 
 ---
 
 </div>
 
-## About Me
+## Sobre Mí
 
-Passionate software developer focused on building scalable, high-quality applications. Experienced across the full stack — from responsive frontends to robust backend architectures and cloud infrastructure. I thrive on solving complex problems and continuously improving my craft.
+Soy ingeniero de Sistemas y Full Stack Developer con experiencia en desarrollo de software, redes, infraestructura, soporte técnico y operaciones digitales. Manejo tanto del stack de desarrollo (frontend–backend) como de redes LAN/WAN, radioenlaces, bases de datos SQL/NoSQL y entornos cloud.
+
+Me caracterizo por la capacidad de resolver problemas, dar soporte eficiente, desarrollar soluciones funcionales y mantener sistemas estables y seguros. Combino habilidades técnicas con un enfoque analítico y adaptable, orientado a ofrecer resultados confiables y de calidad en entornos de TI.
 
 ---
 
@@ -84,7 +88,7 @@ Passionate software developer focused on building scalable, high-quality applica
 | **Email** | hyms2003@gmail.com |
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hernanmurcia)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://hymurcia.gith)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github-pages&logoColor=white)](https://hymurcia.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hymurcia)
 
 </div>
